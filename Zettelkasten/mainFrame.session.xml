@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.26" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>jSplitPaneAuthors/jPanel7/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>270</int>
+    </void>
+    <void property="orientation">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jTableKeywords/JViewport0/jScrollPane6/jPanel16/jPanel2/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$TableState">
+    <void property="columnWidths">
+     <array class="int" length="2">
+      <void index="0">
+       <int>422</int>
+      </void>
+      <void index="1">
+       <int>421</int>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jTableManLinks/JViewport0/jScrollPane15/jPanelManLinks/jSplitPaneLinks/jPanel1/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$TableState">
+    <void property="columnWidths">
+     <array class="int" length="3">
+      <void index="0">
+       <int>281</int>
+      </void>
+      <void index="1">
+       <int>281</int>
+      </void>
+      <void index="2">
+       <int>281</int>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPane1/jPanel3/jPanel11/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>268</int>
+    </void>
+    <void property="orientation">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPane3/jPanel9/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>296</int>
+    </void>
+    <void property="orientation">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPaneMain2/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>440</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPaneLinks/jPanel1/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>250</int>
+    </void>
+    <void property="orientation">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jTableLinks/JViewport0/jScrollPane4/jPanel14/jSplitPaneLinks/jPanel1/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$TableState">
+    <void property="columnWidths">
+     <array class="int" length="4">
+      <void index="0">
+       <int>209</int>
+      </void>
+      <void index="1">
+       <int>210</int>
+      </void>
+      <void index="2">
+       <int>209</int>
+      </void>
+      <void index="3">
+       <int>209</int>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jTableBookmarks/JViewport0/jScrollPane9/jSplitPane3/jPanel9/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$TableState">
+    <void property="columnWidths">
+     <array class="int" length="2">
+      <void index="0">
+       <int>422</int>
+      </void>
+      <void index="1">
+       <int>421</int>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$TabbedPaneState">
+    <void property="selectedIndex">
+     <int>0</int>
+    </void>
+    <void property="tabCount">
+     <int>8</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>539</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jTableAttachments/JViewport0/jScrollPane13/jPanel13/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$TableState">
+    <void property="columnWidths">
+     <array class="int" length="3">
+      <void index="0">
+       <int>281</int>
+      </void>
+      <void index="1">
+       <int>281</int>
+      </void>
+      <void index="2">
+       <int>281</int>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jTableTitles/JViewport0/jScrollPane8/jPanel8/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$TableState">
+    <void property="columnWidths">
+     <array class="int" length="6">
+      <void index="0">
+       <int>141</int>
+      </void>
+      <void index="1">
+       <int>140</int>
+      </void>
+      <void index="2">
+       <int>141</int>
+      </void>
+      <void index="3">
+       <int>140</int>
+      </void>
+      <void index="4">
+       <int>141</int>
+      </void>
+      <void index="5">
+       <int>140</int>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPane2/jPanel10/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>302</int>
+    </void>
+    <void property="orientation">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$WindowState" id="SessionStorage$WindowState0">
+    <void id="Rectangle0" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>141</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>143</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>1392</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>780</int>
+      </void>
+     </void>
+    </void>
+    <void property="bounds">
+     <object idref="Rectangle0"/>
+    </void>
+    <void property="graphicsConfigurationBounds">
+     <object class="java.awt.Rectangle" id="Rectangle1">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>1680</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>1050</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="screenCount">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jTableAuthors/JViewport0/jScrollPane7/jPanel15/jSplitPaneAuthors/jPanel7/jTabbedPaneMain/jPanelMainRight/jSplitPaneMain1/mainPanel/null.contentPane/null.layeredPane/JRootPane0/mainFrame</string>
+   <object class="org.jdesktop.application.SessionStorage$TableState">
+    <void property="columnWidths">
+     <array class="int" length="2">
+      <void index="0">
+       <int>422</int>
+      </void>
+      <void index="1">
+       <int>421</int>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

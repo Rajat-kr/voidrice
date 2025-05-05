@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.26" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>FormSearchResults</string>
+   <object class="org.jdesktop.application.SessionStorage$WindowState" id="SessionStorage$WindowState0">
+    <void id="Rectangle0" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>141</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>143</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>696</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>780</int>
+      </void>
+     </void>
+    </void>
+    <void property="bounds">
+     <object idref="Rectangle0"/>
+    </void>
+    <void property="graphicsConfigurationBounds">
+     <object class="java.awt.Rectangle" id="Rectangle1">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>1680</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>1050</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="screenCount">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPaneSearch2/jPanel2/jSplitPaneSearch1/searchMainPanel/null.contentPane/null.layeredPane/JRootPane0/FormSearchResults</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>280</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPaneSearch1/searchMainPanel/null.contentPane/null.layeredPane/JRootPane0/FormSearchResults</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>240</int>
+    </void>
+    <void property="orientation">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jTableResults/JViewport0/jScrollPane1/jPanel1/jSplitPaneSearch1/searchMainPanel/null.contentPane/null.layeredPane/JRootPane0/FormSearchResults</string>
+   <object class="org.jdesktop.application.SessionStorage$TableState">
+    <void property="columnWidths">
+     <array class="int" length="6">
+      <void index="0">
+       <int>153</int>
+      </void>
+      <void index="1">
+       <int>153</int>
+      </void>
+      <void index="2">
+       <int>153</int>
+      </void>
+      <void index="3">
+       <int>153</int>
+      </void>
+      <void index="4">
+       <int>153</int>
+      </void>
+      <void index="5">
+       <int>153</int>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="20.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>FormImportDialog</string>
+   <object class="org.jdesktop.application.SessionStorage$WindowState" id="SessionStorage$WindowState0">
+    <void property="bounds">
+     <object class="java.awt.Rectangle">
+      <int>684</int>
+      <int>365</int>
+      <int>296</int>
+      <int>306</int>
+     </object>
+    </void>
+    <void id="Integer0" property="frameState"/>
+    <void property="graphicsConfigurationBounds">
+     <object class="java.awt.Rectangle">
+      <object idref="Integer0"/>
+      <object idref="Integer0"/>
+      <int>1680</int>
+      <int>1050</int>
+     </object>
+    </void>
+    <void property="screenCount">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

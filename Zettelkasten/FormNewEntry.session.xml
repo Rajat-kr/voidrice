@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="23" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>FormNewEntry</string>
+   <object class="org.jdesktop.application.SessionStorage$WindowState" id="SessionStorage$WindowState0">
+    <void id="Rectangle0" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>1680</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>1050</int>
+      </void>
+     </void>
+    </void>
+    <void property="bounds">
+     <object idref="Rectangle0"/>
+    </void>
+    <void property="graphicsConfigurationBounds">
+     <object class="java.awt.Rectangle" id="Rectangle1">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>1680</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>1050</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="screenCount">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPaneNewEntry1/newEntryMainPanel/null.contentPane/null.layeredPane/JRootPane0/FormNewEntry</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>550</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPaneNewEntry2/jSplitPaneNewEntry1/newEntryMainPanel/null.contentPane/null.layeredPane/JRootPane0/FormNewEntry</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>350</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPaneNewEntry3/jSplitPaneNewEntry2/jSplitPaneNewEntry1/newEntryMainPanel/null.contentPane/null.layeredPane/JRootPane0/FormNewEntry</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>350</int>
+    </void>
+    <void property="orientation">
+     <void class="java.awt.Rectangle" id="Field0" method="getField">
+      <string>x</string>
+      <void id="Integer0" method="get">
+       <object idref="Rectangle0"/>
+      </void>
+     </void>
+     <object idref="Integer0"/>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jSplitPaneNewEntry4/jSplitPaneNewEntry2/jSplitPaneNewEntry1/newEntryMainPanel/null.contentPane/null.layeredPane/JRootPane0/FormNewEntry</string>
+   <object class="org.jdesktop.application.SessionStorage$SplitPaneState">
+    <void property="dividerLocation">
+     <int>220</int>
+    </void>
+    <void property="orientation">
+     <object idref="Integer0"/>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>jTabbedPaneNewEntry1/jPanel2/jSplitPaneNewEntry1/newEntryMainPanel/null.contentPane/null.layeredPane/JRootPane0/FormNewEntry</string>
+   <object class="org.jdesktop.application.SessionStorage$TabbedPaneState">
+    <void property="selectedIndex">
+     <object idref="Integer0"/>
+    </void>
+    <void property="tabCount">
+     <int>2</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

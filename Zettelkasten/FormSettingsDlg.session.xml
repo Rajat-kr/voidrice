@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="20.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>FormSettingsDlg</string>
+   <object class="org.jdesktop.application.SessionStorage$WindowState" id="SessionStorage$WindowState0">
+    <void id="Rectangle0" property="bounds">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>293</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>279</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>434</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>508</int>
+      </void>
+     </void>
+    </void>
+    <void property="bounds">
+     <object idref="Rectangle0"/>
+    </void>
+    <void property="graphicsConfigurationBounds">
+     <object class="java.awt.Rectangle" id="Rectangle1">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>1680</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>1050</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="screenCount">
+     <int>1</int>
+    </void>
+    <void id="Integer0" property="frameState"/>
+   </object>
+  </void>
+  <void method="put">
+   <string>jTabbedPane1/jPanel1/null.contentPane/null.layeredPane/JRootPane0/FormSettingsDlg</string>
+   <object class="org.jdesktop.application.SessionStorage$TabbedPaneState">
+    <void property="selectedIndex">
+     <object idref="Integer0"/>
+    </void>
+    <void property="tabCount">
+     <int>6</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
